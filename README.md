@@ -1,6 +1,8 @@
 # Small-Business-Loan-project
 The files for the Data Incubator project
+
 [The loan per states figure in interactive format.](https://www.dropbox.com/s/3auodw7hgvx9tq5/loans_per_state.html?dl=0)
+
 [The industry trends figure in interactive format.](https://www.dropbox.com/s/bn728lmrl34orkt/Industry_trends.html?dl=0)
 
 The goal of my project is to help new entrepreneurs with their main financial decision: Which bank should they ask for the capital to start their business? 
