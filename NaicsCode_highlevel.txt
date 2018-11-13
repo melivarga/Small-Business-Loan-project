@@ -1,0 +1,25 @@
+Code,IndustryTitle,NoBusinessEst
+11,Agriculture Forestry Fishing and Hunting,348550
+21,Mining,28732
+22,Utilities,34615
+23,Construction,1369268
+31,Manufacturing,604541
+32,Manufacturing,604541
+33,Manufacturing,604541
+42,Wholesale Trade,679448
+44,Retail Trade,1665458
+45,Retail Trade,1665458
+48,Transportation and Warehousing,524299
+49,Transportation and Warehousing,524299
+51,Information,318781
+52,Finance and Insurance,712702
+53,Real Estate Rental and Leasing,782796
+54,Professional Scientific and Technical Services,2089391
+55,Management of Companies and Enterprises,64317
+56,Admin. and Support and Waste Man. and Remediation,1854253
+61,Educational Services,373796
+62,Health Care and Social Assistance,1510608
+71,Arts Entertainment and Recreation,318038
+72,Accomodation and Food Services,814032
+81,Other Services (except Public Administration),1725625
+92,Public Administration,22
