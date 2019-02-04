@@ -20,3 +20,5 @@ Using the amount of loan, the year the loan was approved and the various risk fa
 I also looked at how the number of loans correlate with population data for every zip code that the data included, which didn’t show very good fit, but when I looked at the number of loans and the number of businesses for a given state I found a very good linear relationship with and R2 of 0.982. See figure [here](https://github.com/melivarga/Small-Business-Loan-project/blob/master/LoanCount_vs_NoBusinesses.pdf). For these analyses I collected data from the web using API. 
 
 In the future I would like to use new and improved features and implement a neural network using Tensorflow to predict all types of the loans with a higher accuracy and expand the regression analysis by taking into account the size of the company and various other features. 
+
+The results of these analyses will help me build a tool for enterpreneurs to find what are the risks of not paying back a loan in time and how can they overcome these hurdles. 
