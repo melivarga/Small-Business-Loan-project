@@ -1,7 +1,6 @@
 # Small-Business-Loan-project
-The files for the Data Incubator project
 
-The goal of my project is to help new entrepreneurs with their main financial decision: Which bank should they ask for the capital to start their business? 
+The goal of the project is to help new entrepreneurs with their main financial decision: Which bank should they ask for the capital to start their business? 
 
 I lived in a small town for the past year and during the weekend I frequently visited the downtown to step into a few local shops and restaurants. I really liked their atmosphere: the friendliness of the owners and employees who, you could see, were proud of being a part of this business. I would like to do my share in promoting these endeavors by giving them a helpful tool in choosing their next loan.
 
